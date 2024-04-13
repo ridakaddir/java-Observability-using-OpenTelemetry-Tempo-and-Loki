@@ -110,3 +110,6 @@ service:
       receivers: [otlp]
       exporters: [loki]
 ```
+
+GitHub repository:
+https://github.com/ridakaddir/java-Observability-using-OpenTelemetry-Tempo-and-Loki
