@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-DemoOtelLokiTempoApplication<demo-otel-loki-tempo>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.ridakaddir.demootellokitempo.DemoOtelLokiTempoApplication",
+      "projectName": "demo-otel-loki-tempo",
+      "args": "",
+      // "vmArgs": "-javaagent:./observability-config/opentelemetry-javaagent.jar",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
