@@ -1,4 +1,4 @@
-## Observability with OpenTelemetry, OpenTelemetry Collector, Grafana Tempo, Loki
+## Spring Boot Observability using OpenTelemetry, Tempo, and Loki
 
 This repository contains an examples to demonstrate how to use OpenTelemetry, OpenTelemetry Collector, Grafana Tempo, and Loki to achieve observability in your Spring boot applications.
 
